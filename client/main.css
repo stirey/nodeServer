@@ -1,0 +1,86 @@
+#main {
+    background-color: whitesmoke;
+}
+
+#siteTitle {
+    color: #17a2b8;
+    font-size: 1.6em;
+}
+
+.nav-item {
+    font-size: 1.2em;
+    font-style: none;
+    margin-right: 5px
+}
+
+#postBtn {
+    width: 6em;
+}
+
+.card {
+    width: 18rem;
+    margin: 2rem;
+}
+
+#mineBtn {
+    width: 9rem;
+}
+
+#allBtn {
+    width: 9rem;
+}
+
+#searchBtn {
+    width: 5rem
+}
+
+#searchBar {
+    width: 9rem
+}
+
+.card-title {
+    color: #17a2b8
+}
+
+.editBtn {
+    font-size: .8em;
+    margin-right: .5em;
+    padding: .3em
+}
+
+.deleteBtn {
+    font-size: .8em;
+    margin-right: .5em;
+    padding: .3em
+}
+
+#updatedEntry {
+    width: 90%;
+    margin: -4% auto 2% auto
+}
+
+#defaultLogin {
+    margin: 1em auto;
+    font-size: 3em;
+}
+
+.noPosts {
+    margin: 1em auto;
+    font-size: 2em;
+}
+
+#journalView {
+    margin: 2em auto
+}
+
+.modal-header {
+    background-color: lightgray;
+}
+
+.modal-title {
+    color: #17a2b8;
+}
+
+.modal-body {
+    background-color: whitesmoke;
+}
